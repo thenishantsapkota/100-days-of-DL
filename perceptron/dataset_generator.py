@@ -5,7 +5,7 @@ import pandas as pd
 np.random.seed(42)
 
 # Define the number of samples and features
-num_samples = 500
+num_samples = 1000
 num_features = 2
 
 # Generate random features
